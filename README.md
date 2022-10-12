@@ -3,7 +3,7 @@
 
 * **Normal Parametric Approach** assuming multi-variate normal distribution of daily returns. For this approach 
 we need to calculate portfolio volatility which is done using different methods: 
-
+  
   - *Equally weighted moving average*
   - *Exponential weighted moving average*
   - *Generalised Autoregressive Conditional Heteroscedasticity (GARCH(1,1)*
