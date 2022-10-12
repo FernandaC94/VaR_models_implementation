@@ -9,10 +9,8 @@ we need to calculate portfolio volatility which is done using different methods:
   - *Generalised Autoregressive Conditional Heteroscedasticity (GARCH(1,1)*
   - *Dynamic Conditional Correlation (Multivariate GARCH(1,1))*
 
-*	**Non-parametric approach**: 
-
-  * *Historical simulation* based on historical daily returns data
-  * *Monte Carlo Simulation* of daily returns assuming normal distribution.
+*	**Non-parametric approach**: *Historical simulation* based on historical daily returns data and *Monte Carlo Simulation* of 
+daily returns assuming normal distribution.
 
 * **Parameters optimization** of GARCH(1,1) model and Multivariate GARCH(1,1) model with Maximum Likelihood Estimation.
   
